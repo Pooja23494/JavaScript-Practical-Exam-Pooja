@@ -9,17 +9,17 @@ It is deployed using Vercel for fast and reliable hosting.
 
 ## 🚀 Features
 
-✔ Clean and responsive UI
-✔ Fully functional JavaScript logic
-✔ DOM manipulation
-✔ Event-driven interactions
-✔ Form handling & validation 
-✔ Dynamic content rendering
-✔ Error-free and optimized code
+- ✔ Clean and responsive UI
+- ✔ Fully functional JavaScript logic
+- ✔ DOM manipulation
+- ✔ Event-driven interactions
+- ✔ Form handling & validation 
+- ✔ Dynamic content rendering
+- ✔ Error-free and optimized code
 
 ## 🛠️ Technologies Used
 
-HTML5
-CSS3
-JavaScript (ES6+)
-Bootstrap5.3
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap5.3
