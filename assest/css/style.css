@@ -1,0 +1,23 @@
+body {
+  background: #f7f7f7;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  transition: 0.3s color ease-out;
+}
+
+#header-nav {
+  transition: 0.3s;
+  background-color: transparent;
+}
+
+.nav-scrolled {
+  background-color: white !important;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+  border-radius: 15px;
+}
